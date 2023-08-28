@@ -1,2 +1,2 @@
 # stock-analysis
-Analysis of Eco-stocks using VBA
+Analysis of Green stocks using VBA
